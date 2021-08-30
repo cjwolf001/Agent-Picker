@@ -51,9 +51,9 @@ IniRead, yContinue, Config.ini, Continue Button, yPosition
 ;----  GUI
 ;
 Gui, Font, s10
-Gui, Add, Text,, Select an agent
+Gui, Add, Text,, Conor is the coolest valorant player alive
 Gui, Add, DropDownList,w85 vElement gAction, %names%
-Gui, Add, Link,,Press F4 to enable/disable.`nPress F9 to kill me.`nThe agent will be picked up `nas the agent selection appears.`n`n<a href="https://pastebin.com/raw/tv3fenUs">(C) PINTOSO 2020</a>
+Gui, Add, Link,,Press F4 to enable/disable.`nPress F9 to kill me (conor will be sad).`nThe agent will be picked up `nas the agent selection appears.`n`n<a href="https://pastebin.com/raw/tv3fenUs">(C) PINTOSO 2020</a>
 Gui, Show, w230 h165, Agent Picker
 
 
